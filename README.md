@@ -1,1 +1,1 @@
-# pitch-simulator
+# Pitch Simulator
